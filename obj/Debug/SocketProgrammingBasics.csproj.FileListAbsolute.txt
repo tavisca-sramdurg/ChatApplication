@@ -1,0 +1,7 @@
+C:\Users\sramdurg\source\repos\SocketProgrammingBasics\SocketProgrammingBasics\bin\Debug\SocketProgrammingBasics.exe.config
+C:\Users\sramdurg\source\repos\SocketProgrammingBasics\SocketProgrammingBasics\bin\Debug\SocketProgrammingBasics.exe
+C:\Users\sramdurg\source\repos\SocketProgrammingBasics\SocketProgrammingBasics\bin\Debug\SocketProgrammingBasics.pdb
+C:\Users\sramdurg\source\repos\SocketProgrammingBasics\SocketProgrammingBasics\obj\Debug\SocketProgrammingBasics.csprojAssemblyReference.cache
+C:\Users\sramdurg\source\repos\SocketProgrammingBasics\SocketProgrammingBasics\obj\Debug\SocketProgrammingBasics.csproj.CoreCompileInputs.cache
+C:\Users\sramdurg\source\repos\SocketProgrammingBasics\SocketProgrammingBasics\obj\Debug\SocketProgrammingBasics.exe
+C:\Users\sramdurg\source\repos\SocketProgrammingBasics\SocketProgrammingBasics\obj\Debug\SocketProgrammingBasics.pdb
